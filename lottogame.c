@@ -34,6 +34,8 @@ number 28 has been selected x times
 etc.,
 6. Exit program
 
+demi was here
+
 Author: Shahida Mohammed-Ahmed
 Date: 20/03/2022 */
 
